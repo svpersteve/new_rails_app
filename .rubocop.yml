@@ -9,3 +9,6 @@ AllCops:
     - public/**/*
     - tmp/**/*
     - db/schema.rb
+
+Style/Documentation:
+  Enabled: false
